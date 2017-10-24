@@ -1,2 +1,2 @@
 # Model_Automation
-Automating  the Entire Model Development  Process with Custom Wrapper functions and classes 
+Automating the entire model development process with custom wrapper functions and classes 
